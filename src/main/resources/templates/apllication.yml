@@ -1,2 +1,13 @@
 server:
   port: 5000
+
+  #데이터 베이스
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://${db.url}
+    username: ${db.username}
+    password: ${db.password}
+
+
+
+
