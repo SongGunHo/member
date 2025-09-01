@@ -17,3 +17,6 @@
   # 작업 일자 
     - 구글 시트 주소 
       - https://docs.google.com/spreadsheets/d/1hLFRL1Ig-wskDpDuLGj13bchrf-rcpbsXCHsz4b-AHo/edit?gid=0#gid=0
+  # 노션 
+    - 설명 
+      - https://www.notion.so/26112c6bde1c80a1ace7f830876fcd22
